@@ -173,45 +173,6 @@ border:none;
   background-image: url(background.png);
 }
 
-.design {
-  background-image: url(http://i.imgur.com/L52l27T.jpg);
-}
-
-.tyle {
-  background-image: url(http://i.imgur.com/0qUE5rZ.png);
-}
-
-.code {
-  background-image: url(http://i.imgur.com/0qUE5rZ.png);
-}
-
-.lipos {
-  background-image: url(http://i.imgur.com/GYOt3re.png);
-}
-
-.boston {
-  background-image: url(http://i.imgur.com/1lls2a0.png);
-}
-
-.engineering {
-  background-image: url(http://i.imgur.com/G6vDDtK.png);
-}
-
-.travel {
-  background-image: url(http://i.imgur.com/353ldfz.jpg);
-}
-
-.photography {
-  background-image: url(http://i.imgur.com/MaznkHt.jpg);
-}
-
-.dogs {
-  background-image: url(http://i.imgur.com/IG01Noa.jpg);
-}
-
-.family {
-  background-image: url(http://i.imgur.com/cQvyDOE.jpg);
-}
 
 .inner-border, .container {  
   -webkit-transform: translate(-50%,-50%);
